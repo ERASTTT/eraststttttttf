@@ -1,0 +1,24 @@
+body {
+    font-family: 'Onest', sans-serif;
+    background-color: bisque;
+}
+
+.header {
+    font-family: 'Onest';
+    background: #c0e907b9;
+}
+
+.logo {
+    margin-left: 100px;
+    margin-top: 35px;
+}
+
+.nav-item {
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+;
+}
